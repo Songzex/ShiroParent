@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad653b21-15f8-4fbc-9829-e0a1b59c84a1" name="Changes" comment="1212">
-      <change afterPath="$PROJECT_DIR$/TestShiroJava/src/main/resources/REMEED.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestShiroJava/src/main/java/org/example/reaml/MyReamls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestShiroJava/src/main/java/org/example/testjavashiro/TestJavaShiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestShiroJava/src/main/java/org/example/testjavashiro/singleReaml/TestJavaShiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestShiroJava/src/main/java/org/example/testjavashiro/TestLoginShiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestShiroJava/src/main/java/org/example/testjavashiro/singleReaml/TestLoginShiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestShiroJava/src/main/resources/REMEED.md" beforeDir="false" afterPath="$PROJECT_DIR$/REMEED.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +58,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\24022\Desktop\Shiro\ShiroParent\TestShiroJava\src\main\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\24022\Desktop\Shiro\ShiroParent" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.TestLoginShiro.Testlogin">
     <configuration name="TestJavaShiro.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestShiroJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.testjavashiro.*" />
+          <option name="PATTERN" value="org.example.testjavashiro.singleReaml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.testjavashiro" />
-      <option name="MAIN_CLASS_NAME" value="org.example.testjavashiro.TestJavaShiro" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testjavashiro.singleReaml.TestJavaShiro" />
       <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -77,12 +85,12 @@
       <module name="TestShiroJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.testjavashiro.*" />
+          <option name="PATTERN" value="org.example.testjavashiro.singleReaml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.testjavashiro" />
-      <option name="MAIN_CLASS_NAME" value="org.example.testjavashiro.TestLoginShiro" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testjavashiro.singleReaml.TestLoginShiro" />
       <option name="METHOD_NAME" value="Testlogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -106,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687581853973</updated>
-      <workItem from="1687581855746" duration="5481000" />
+      <workItem from="1687581855746" duration="8483000" />
     </task>
     <task id="LOCAL-00001" summary="1212">
       <created>1687587292201</created>
@@ -115,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687587292201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1212">
+      <created>1687587402904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687587402905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
